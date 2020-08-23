@@ -1,7 +1,7 @@
 ---
 title: "Course Project: Shiny Application and Reproducible Pitch"
-author: "Ben Karmay"
-date: "06/12/2017"
+author: "Relebohile Molefi"
+date: "23/08/2020"
 output: ioslides_presentation
 ---
 
